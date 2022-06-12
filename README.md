@@ -1,5 +1,5 @@
 # aula-dio-poo
 
-Pilares da Programação Orientada a Objetos.
+PILARES DE PROGRAMAÇÃO ORIENTADA A OBJETOS.
 
--> Esplorando conceitos de Abstração, Encapsulamento, Herança e Polimorfismo com exemplos reais
+-> Conceito explorados de Abstração, Encapsulamento, Herança e Polimorfismo com exemplos reais.
